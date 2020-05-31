@@ -7,5 +7,5 @@ Sigue a la ISS desde cualquier par de coordenadas.
 3. Obtén tus coordenadas en alguna web como [Maps](https://www.google.com/maps).
 4. Cambia el token, la latitud y la longitud en el código del programa.
 5. Corre el programa y visita la pestaña Devices en tu perfil de Ubidots:
-![device](C:\Users\Rafa\Downloads\descarga.png).
+![device](img/descarga.png).
 ¡Ya puedes observar en tiempo real dónde está la ISS y a cuánta distancia de las coordenadas establecidas se encuentra!
