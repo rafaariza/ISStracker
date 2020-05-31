@@ -3,15 +3,15 @@ import time
 from math import sin,cos,atan2,sqrt,pi
 
 # VARIABLES GLOBALES
-TOKEN = 'BBFF-RY7bpMO28tnV2Vj2PUqbgNZOWW0BgA'
+TOKEN = 'tu_token'
 ETIQUETA = 'InternationalSpaceStation'
 VARIABLE = "distancia"
 
 URL_BASE = 'http://industrial.api.ubidots.com/api/v1.6/devices/'
 
 # COORDENADAS
-LAT = 37.894602
-LONG = -4.803113
+LAT = tu_latitud
+LONG = tu_longitud
 
 def get_iss_position():
     # POSICION ACTUAL ISS
