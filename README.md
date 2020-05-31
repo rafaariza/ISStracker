@@ -2,7 +2,7 @@
 Sigue a la ISS desde cualquier par de coordenadas.
 ## Uso
 1. Crear una cuenta gratuita para uso personal en [Ubidots](https://ubidots.com/).
-2. Obtén tu token desde:
+2. Obtén tu token desde:  
 ![token](img/descarga2.png)
 3. Obtén tus coordenadas en alguna web como [Maps](https://www.google.com/maps).
 4. Cambia el token, la latitud y la longitud en el código del programa.
